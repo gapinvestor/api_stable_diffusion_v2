@@ -5,7 +5,8 @@ We have two customized endpoints:
  - `/custom/v1/train`: train a custom model
 
 # How to use
-1. Download `run_api.py`
-2. Put it on your model local folder
-3. Execute it
+1. Download `api.py` and put it on `*your_local_model_folder* > modules > api`
+2. Download `run_api.py`
+3. Put it on your model local folder
+4. Execute it
 
